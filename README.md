@@ -4,20 +4,16 @@ This app was built for iOS.
 
 To run app:
 
-Clone the project
+Step 1 - Open Terminal (MAC) to folder where you wish to clone project
 
-  1. git clone <PROJECT_NAME>
-
-Open Terminal (MAC) and cd into your cloned project.
+Step 2 - Run following commands in terminal
   
-  1. cd <PATH_TO_PROJECT_NAME>
-
-Run following command in terminal:
-
-  1. yarn install
-  2. cd ios
-  3. pod install
-  4. cd ..
-  5. npx react-native run-ios
+  1. git clone git@github.com:BranShep/DivvyHomework.git
+  2. cd <PATH_TO_PROJECT_NAME>
+  3. yarn install
+  4. cd ios
+  5. pod install
+  6. cd ..
+  6. npx react-native run-ios
 
 All done! Enjoy
