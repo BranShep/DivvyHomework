@@ -9,7 +9,7 @@ Step 1 - Open Terminal (MAC) to folder where you wish to clone project
 Step 2 - Run following commands in terminal
   
   1. git clone git@github.com:BranShep/DivvyHomework.git
-  2. cd <PATH_TO_PROJECT_NAME>
+  2. cd DivvyHomework
   3. yarn install
   4. cd ios
   5. pod install
