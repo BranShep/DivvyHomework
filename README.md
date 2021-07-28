@@ -1,15 +1,23 @@
-The `data.json` file contains business data you can use to populate the list and details.
+Welcome to my Homework!
 
-You may need to download Xcode 12.4 for the code to compile. https://developer.apple.com/download/more/
+This app was built for iOS.
 
-If you run into any configuration or build tool issues, feel free to reach out. 
+To run app:
 
-#### Some useful links:
-- https://reactnative.dev/docs/getting-started
-- https://reactnative.dev/docs/environment-setup
-- https://reactnative.dev/docs/native-components-ios
-- https://reactnative.dev/docs/native-components-android
-- https://reactnavigation.org/docs/getting-started
-- https://github.com/PhilJay/MPAndroidChart 
-- https://github.com/danielgindi/Charts
-- https://mockaroo.com/ 
+Clone the project
+
+  1. git clone <PROJECT_NAME>
+
+Open Terminal (MAC) and cd into your cloned project.
+  
+  1. cd <PATH_TO_PROJECT_NAME>
+
+Run following command in terminal:
+
+  1. yarn install
+  2. cd ios
+  3. pod install
+  4. cd ..
+  5. npx react-native run-ios
+
+All done! Enjoy
