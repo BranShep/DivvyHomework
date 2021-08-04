@@ -26,8 +26,6 @@ const setTrending = (data) => {
 };
 
 const Item = (props) => {
-  setTrending(props.item.revenue);
-
   return (
     <TouchableHighlight
       underlayColor={PlatformColor('secondarySystemBackground')}
